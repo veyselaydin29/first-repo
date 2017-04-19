@@ -98,4 +98,3 @@ chat.gamestate.prototype = {
 
     }
 };
-//mrb
